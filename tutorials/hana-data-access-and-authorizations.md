@@ -32,8 +32,9 @@ Follow our other tutorials on the HANA Cloud Platform website
 
 ## Details
 
+**Demo on authoring Tutorials**
+
 ### You will learn  
-Demo on Tutorials
 
 1. How to browse data using the SAP HANA Web-based Development Workbench.
 2. Opening a connection to the SAP HANA database.
