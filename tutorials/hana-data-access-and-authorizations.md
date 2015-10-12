@@ -32,7 +32,7 @@ Follow our other tutorials on the HANA Cloud Platform website
 
 ## Details
 
-**Demo on authoring Tutorials**
+**Demo on authoring Tutorials for Frank**
 
 ### You will learn  
 
