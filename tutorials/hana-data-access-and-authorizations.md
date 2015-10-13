@@ -31,6 +31,7 @@ Follow our other tutorials on the HANA Cloud Platform website
 ![]({{ site.baseurl }}/assets/hana-data_files/ico-01.png){: height='20' width='35'} [Check out the other tutorials on our HANA Cloud Platform website](#)
 
 ## Details
+** DEMO of Tutorials**
 
 ### You will learn  
 
