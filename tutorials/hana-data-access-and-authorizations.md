@@ -1,6 +1,6 @@
 ---
 layout: tutorial
-title: Hana Data Access and Authorization
+title: Hana Data Access and Authorization (Modified)
 ---
 # Hello Data!
 
