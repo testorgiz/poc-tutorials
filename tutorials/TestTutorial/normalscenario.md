@@ -9,5 +9,6 @@ tags: [HANA, SAPHANA]
 
 Create a beginner mobile app, and deploy it to a mobile device - in 15 minutes.
 ___
-*Prerequisites (single emphasis):* [
-Here should be some Reference link
+*Prerequisites (single emphasis):* 
+Here should be some Reference link [link to picture]
+![Screenshot that shows the Azure VM images available in the preview portal](./media/screenshot.png)
