@@ -1,7 +1,7 @@
 ---
 layout: tutorial
 title: Hana Data Access and Authorization
-tags: [sapHana]
+tags: sapHana
 ---
 # First test
 
