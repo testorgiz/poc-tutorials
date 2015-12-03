@@ -1,6 +1,7 @@
 ---
 layout: tutorial
 title: normal scenario
+description: tutorial:product/sapHana
 tags: [HANA, SAPHANA]
 ---
 #Mobile 101- Step 1
